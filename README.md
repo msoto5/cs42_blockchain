@@ -17,7 +17,7 @@ The server is run in port 8080 so this port has to be previously unused.
 2. At the same time run [blockchainSender.py](blockchainSender.py) in another terminal.
 3. Interact with the blockchain through [blockchainSender.py](blockchainSender.py):
 ```
-Escoge una opción:"
+Escoge una opción:
     1.- Envía una nueva transacción para añadir al próximo bloque
     2.- Ejecuta la prueba de trabajo y crea un nuevo bloque
     3.- Devuelve la información sobre la cadena de bloques
