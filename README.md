@@ -23,3 +23,7 @@ Escoge una opción:
     3.- Devuelve la información sobre la cadena de bloques
     4.- Salir
 ```
+- With **1**: you can create a new transaction with emisor, receptor and amount, and send it to the blockchain
+- With **2**: you execute the proof of work and create the new block in the blockchain
+- With **3**: the blockchain is shown in terminal
+- With **4**: the programs ends
