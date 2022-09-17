@@ -1,5 +1,5 @@
 # cs42_blockchain
-El objetivo de este proyecto es crear una blockchain basada en una prueba de trabajo. Se ha implementado la lógica de la cadena de bloques, así como un servidor a través del cual se pueda interactuar con la misma.
+The goal of this project is to create a blockchain based on proof of work. The logic of the blockchain has been implemented, as well as a server through which it can be interacted with.
 
 - [blockchain.py](blockchain.py): has the implementation of the blockchain and runs the server.
 - [blockchainSender.py](blockchainSender.py): interacts with the blockchain through the server by requests.post and requests.get 
